@@ -1,6 +1,6 @@
 # Express Crash Course
 
-This is a simple Express.js application that comes from this YouTube tutorial video by Web Dev Simplified. 
+This is a simple Express.js application that comes from [this YouTube tutorial video](https://www.youtube.com/watch?v=SccSCuHhOw0) by Web Dev Simplified. I made some notes while following along with the video in [this Google Doc](https://docs.google.com/document/d/1fsDq9kY36k87X06rLuLIGHkLwyAPa_YRQFJ9rfM6bPw/edit?usp=sharing).
 
 ## Project Structure
 
